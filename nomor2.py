@@ -22,4 +22,4 @@ match pilihan:
         luas = alas * tinggi / 2 
         print(f"Luas Segitiga : {luas}")
     case _:
-        print(f"Masukkan pilihan dengan benar")
+        print(f"Masukkan pilihan dengan benar ")
